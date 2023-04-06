@@ -1,4 +1,4 @@
-# dbt_query_game v0.1.1
+# dbt_query_game v0.1.1 
 
 ## October Daily Puzzle Releases
 - The release includes the following updates to the QUERY; dbt project:
